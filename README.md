@@ -5,4 +5,4 @@ Over these last few weeks assignments, I have learned many good practices and ma
 
 Regarding CSS, I picked up that a lot easier. Once again staying organized helped me be able to avoid problems and work more efficiently. I learned the syntax of selector, declaration, declaration, or HTML and Element, then property and value. I personally liked using the inline method and the cascading flow of things, but I also used the internal and external style sheets as well. 
 
-Overall, practicing the codes ultimately helped me catch on to better ways to do things and has helped me become familiar with a lot of these practices. Building upon the language has been the most beneficial practice I have done. For both assignments, learning about the flow of a web page and survey
+Overall, practicing the codes ultimately helped me catch on to better ways to do things and has helped me become familiar with a lot of these practices. Building upon the language has been the most beneficial practice I have done.
